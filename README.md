@@ -3,8 +3,7 @@ Um projeto extremamente simples de e-commerce (ainda incompleto) feito com
 Django 2.2.4 e Python 3.7.3.
 
 ### Conteúdo educacional
-Este conteúdo foi criado no [Curso de Python 3 - Do Básico Ao Avançado (Completo)](https://www.udemy.com/course/python-3-do-zero-ao-avancado/) sem a intenção de 
-ser utilizado em produção, mas como recurso educacional ensinado no meu curso.
+Este conteúdo foi criado sem a intenção de ser utilizado em produção, mas como recurso educacional ensinado no curso de TDS - IFPI na Disciplina de PROG. WEB BACKEN-366 2023.1.
 
 Isso não impede que você baixe, altere, use e/ou distribua o seu conteúdo conforme preferir.
 
@@ -35,9 +34,7 @@ máquina local:
 
 - Instalar git (Windows, Linux e Mac) e depois:
 
-```
-git clone https://github.com/luizomf/django-simple-ecommerce.git
-```
+
 
 - Para **Windows**:
 
