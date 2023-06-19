@@ -2,6 +2,9 @@
 Um projeto extremamente simples de e-commerce (ainda incompleto) feito com 
 Django 2.2.4 e Python 3.7.3.
 
+# O endereço eletronico 
+https://testedeply.pythonanywhere.com/
+
 ### Conteúdo educacional
 Este conteúdo foi criado sem a intenção de ser utilizado em produção, mas como recurso educacional ensinado no curso de TDS - IFPI na Disciplina de PROG. WEB BACKEN-366 2023.1.
 
